@@ -1,4 +1,4 @@
-# informatica
+# Informatica
 # Atividades de informática
 Atividade de apresentação pessoal software utilizado: PowerPoint
 
