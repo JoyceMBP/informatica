@@ -21,4 +21,7 @@ Aprendi a interpretar dados, manipular arquivos no Excel e aplicar fórmulas com
 Com os conhecimentos adquiridos na primeira parte da atividade, enfrentei um novo desafio para aplicar e consolidar minhas habilidades.
 Utilizado uma planilha que contém dados sobre exames laboratoriais realizados pelos laboratórios do Hospital das Clínicas, detalhando controles por período, laboratórios e procedimentos, conforme agendado pelos médicos nas consultas.
 
+![image](https://github.com/user-attachments/assets/e5bf7379-2d03-4e7d-b86c-2a35d3958b40)
+
+
 [Atividade 1309.xlsx](https://github.com/user-attachments/files/17007343/Atividade.1309.xlsx)
