@@ -10,13 +10,13 @@ Criando slides, aprendi a organizar e apresentar informações de forma clara e 
 
 [Apresentação informatica final.pptx](https://github.com/user-attachments/files/17007305/Apresentacao.informatica.final.pptx)
 
-## Usando fórmulas e dados abertos parte 1
+## Utilizando fórmulas e dados abertos no software Excel parte 1
 
 Aprendi a interpretar dados, manipular arquivos no Excel e aplicar fórmulas como SOMA, CONT.SE, SOMASE e SE para analisar e responder perguntas específicas.
 
 [Informatica 0609.xlsx](https://github.com/user-attachments/files/17007315/Informatica.0609.xlsx)
 
-## Usando fórmulas e dados abertos parte 2
+## Utilizando fórmulas e dados abertos no software Excel parte 2
 
 Com os conhecimentos adquiridos na primeira parte da atividade, enfrentei um novo desafio para aplicar e consolidar minhas habilidades.
 Utilizado uma planilha que contém dados sobre exames laboratoriais realizados pelos laboratórios do Hospital das Clínicas, detalhando controles por período, laboratórios e procedimentos, conforme agendado pelos médicos nas consultas.
