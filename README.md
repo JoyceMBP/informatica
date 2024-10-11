@@ -25,3 +25,10 @@ Utilizado uma planilha que contém dados sobre exames laboratoriais realizados p
 
 
 [Atividade 1309.xlsx](https://github.com/user-attachments/files/17007343/Atividade.1309.xlsx)
+
+## Tarefa 1 - PowerBI
+
+Nessa atividade, dei início ao meu aprendizado em desenvolvimento de dashboards no Power BI. A proposta foi criar um dashboard com, no mínimo, duas visualizações, utilizei mapa, cartão e segmentação de dados.
+
+![image](https://github.com/user-attachments/assets/62341396-ac8e-498d-93bb-01c116b24520)
+
