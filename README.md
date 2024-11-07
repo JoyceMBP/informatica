@@ -32,7 +32,25 @@ Nessa atividade, dei início ao meu aprendizado em desenvolvimento de dashboards
 
 https://app.powerbi.com/view?r=eyJrIjoiMmI0OTQ0ZWYtNmViNC00Y2FmLWEwNTYtYjgxYjUyMjllZTkwIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
 
+## Tarefa 2 - PowerBI
 
-![image](https://github.com/user-attachments/assets/ed7a92b5-8775-45ef-a928-e49ee2a9563d)
+Na segunda atividade de Power BI, o objetivo foi desenvolver um dashboard utilizando uma planilha com dados sobre exames laboratoriais realizados pelos laboratórios do Hospital das Clínicas. O dashboard detalha o controle por período, laboratórios e tipos de procedimentos, conforme agendados pelos médicos durante as consultas.
+
+A análise realizada por meio do dashboard buscou responder as seguintes perguntas:
+
+1. Qual o total de exames realizados?
+2. Qual a quantidade total de laboratórios?
+3. Qual mês, considerando todos os anos, teve o maior número de exames agendados?
+4. Qual ano registrou o maior número de exames agendados?
+
+5. Qual procedimento foi mais agendado?
+
+https://app.powerbi.com/view?r=eyJrIjoiYjkxYmUxOWItMDFkOC00YWZlLWJkNGItMzgwZGI3NTNmMmEwIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
+
+![image](https://github.com/user-attachments/assets/d9b5b161-f3a0-4a55-b202-48377690ac50)
+
+
+
+
 
 
