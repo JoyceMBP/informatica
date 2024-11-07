@@ -30,5 +30,9 @@ Utilizado uma planilha que contém dados sobre exames laboratoriais realizados p
 
 Nessa atividade, dei início ao meu aprendizado em desenvolvimento de dashboards no Power BI. A proposta foi criar um dashboard com, no mínimo, duas visualizações, utilizei mapa, cartão e segmentação de dados.
 
-![image](https://github.com/user-attachments/assets/62341396-ac8e-498d-93bb-01c116b24520)
+https://app.powerbi.com/view?r=eyJrIjoiMmI0OTQ0ZWYtNmViNC00Y2FmLWEwNTYtYjgxYjUyMjllZTkwIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
+
+
+![image](https://github.com/user-attachments/assets/ed7a92b5-8775-45ef-a928-e49ee2a9563d)
+
 
