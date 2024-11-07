@@ -32,8 +32,7 @@ Nessa atividade, dei início ao meu aprendizado em desenvolvimento de dashboards
 
 https://app.powerbi.com/view?r=eyJrIjoiMmI0OTQ0ZWYtNmViNC00Y2FmLWEwNTYtYjgxYjUyMjllZTkwIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
 
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/e5f03712-64e4-4c00-a222-188577416baf)
 
 ## Tarefa 2 - PowerBI
 
