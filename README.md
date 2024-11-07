@@ -32,6 +32,9 @@ Nessa atividade, dei início ao meu aprendizado em desenvolvimento de dashboards
 
 https://app.powerbi.com/view?r=eyJrIjoiMmI0OTQ0ZWYtNmViNC00Y2FmLWEwNTYtYjgxYjUyMjllZTkwIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
 
+![Uploading image.png…]()
+
+
 ## Tarefa 2 - PowerBI
 
 Na segunda atividade de Power BI, o objetivo foi desenvolver um dashboard utilizando uma planilha com dados sobre exames laboratoriais realizados pelos laboratórios do Hospital das Clínicas. O dashboard detalha o controle por período, laboratórios e tipos de procedimentos, conforme agendados pelos médicos durante as consultas.
