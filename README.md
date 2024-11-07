@@ -51,6 +51,15 @@ https://app.powerbi.com/view?r=eyJrIjoiYjkxYmUxOWItMDFkOC00YWZlLWJkNGItMzgwZGI3N
 
 ![image](https://github.com/user-attachments/assets/d9b5b161-f3a0-4a55-b202-48377690ac50)
 
+## Tarefa 3 - PowerBI
+
+O desafio da terceira atividade de Power BI foi desenvolver um dashboard utilizando um arquivo de dados de vendas para monitorar o KPI de total de itens vendidos.
+
+https://app.powerbi.com/view?r=eyJrIjoiNDY5NGM2NDYtNTQyOS00YjlhLWJiZjMtYWQzZjIyNWE3OTQ4IiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
+
+![image](https://github.com/user-attachments/assets/04a8ac04-efdc-4214-ab61-8f03e87c6b8c)
+
+
 
 
 
