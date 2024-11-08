@@ -60,6 +60,13 @@ https://app.powerbi.com/view?r=eyJrIjoiNDY5NGM2NDYtNTQyOS00YjlhLWJiZjMtYWQzZjIyN
 ![image](https://github.com/user-attachments/assets/04a8ac04-efdc-4214-ab61-8f03e87c6b8c)
 
 
+## Tarefa 4 - PowerBI
+
+O desafio da quarta atividade de Power BI foi desenvolver um dashboard utilizando um arquivo de dados abertos com KPI
+
+https://app.powerbi.com/view?r=eyJrIjoiOGUzN2Y5NjQtMTA1ZC00NmE0LThmOGEtNDg0YmIzNjA2NDZmIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
+
+![image](https://github.com/user-attachments/assets/1d1fedb5-e54f-4e50-9321-340b2cf75048)
 
 
 
