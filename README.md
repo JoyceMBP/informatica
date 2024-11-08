@@ -66,7 +66,8 @@ O desafio da quarta atividade de Power BI foi desenvolver um dashboard utilizand
 
 https://app.powerbi.com/view?r=eyJrIjoiOGUzN2Y5NjQtMTA1ZC00NmE0LThmOGEtNDg0YmIzNjA2NDZmIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9
 
-![image](https://github.com/user-attachments/assets/1d1fedb5-e54f-4e50-9321-340b2cf75048)
+![image](https://github.com/user-attachments/assets/84c19504-c141-459b-98cb-31f2bfb37af7)
+
 
 
 
