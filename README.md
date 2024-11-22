@@ -74,6 +74,7 @@ https://app.powerbi.com/view?r=eyJrIjoiOGUzN2Y5NjQtMTA1ZC00NmE0LThmOGEtNDg0YmIzN
 O desafio desta atividade foi desenvolver um aplicativo que alimente uma base de dados já integrada a um dashboard.
 
 https://apps.powerapps.com/play/e/693b3dc3-5b32-ee4d-9e86-4e4de3c68fe5/a/bc12a512-d2e7-46e9-978d-25379c1551f2?tenantId=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&sourcetime=1732312195349
+
 ![image](https://github.com/user-attachments/assets/c9560761-1e71-4773-a57d-6d82f8b0d19b)
 
 https://fatecspgov-my.sharepoint.com/:x:/r/personal/joyce_barros_fatec_sp_gov_br/Documents/Exames/Exames.xlsx?d=wb9dbb97d045b4230bea6745af13ca072&csf=1&web=1&e=ajqWxn
