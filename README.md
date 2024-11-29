@@ -82,5 +82,11 @@ https://fatecspgov-my.sharepoint.com/:x:/r/personal/joyce_barros_fatec_sp_gov_br
 ![image](https://github.com/user-attachments/assets/8657c59e-a7c6-4cc5-86c7-bd317c5c4923)
 
 
+## Prova Power Apps
+
+O desafio desta atividade foi desenvolver um BI com dados abertos
+
+![image](https://github.com/user-attachments/assets/32c3d6c3-e0fd-46da-b85b-8de6d08904b1)
+
 
 
